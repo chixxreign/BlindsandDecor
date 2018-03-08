@@ -3,6 +3,7 @@
 <html lang="en">
 
 <head>
+   
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -149,7 +150,7 @@
                 </div>
                 <div class="col-12 col-sm">
                     <p class="text-left lead">
-                        <br/> The <b>AdamArc Blinds and Decor Firm</b> is primarily located at <b>Unit 3 VCA Commercial Bldg. McArthur Hi-way, San Pablo, Malolos, Bulacan</b>, nearby the road which makes it noticeable. Almost every vehicles passing the road can easily recognize the firm, which is an advantage to every business and can come up in an increase in number of customers. It conforms to every business ideals which is a location that accessible to everyone. The firms also provides a parking lot for all of its customers or inquirers so that customers will not be bother about their vehicle’s condition while they are still having conversation inside the firm. In the year (2015) AdamArc opens to public and start to offer their imported and high quality products.<br/><br/> The owner of the firm, <b>Mr. Noel Manio</b> started this business primarily because of demand in interior designs such as window blinds coupled with his fashion and knowledge in marketing and working experience. AdamArc firm has its color theme of green and brown that makes it more nature like that looks charming and pleasant in appearance for most of the customers.
+                        <br/> The <b>AdamArc Blinds and Decor Firm</b> is primarily located at <b>Unit 3 VCA Commercial Bldg. McArthur Hi-way, San Pablo, Malolos, Bulacan</b>, nearby the road which makes it noticeable. Almost every vehicles passing the road can easily recognize the firm, which is an advantage to every business and can come up in an increase in number of customers. It conforms to every business ideals which is a location that accessible to everyone. The firms also provides a parking lot for all of its customers or inquirers so that customers will not be bother about their vehicle’s condition while they are still having conversation inside the firm. In the year (2015) AdamArc opens to public and start to offer their imported and high quality products.<br/><br/> The owner of the firm, <b>Mr. Noel Manio</b> started this business primarily because of demand in interior designs such as window blinds coupled with his fashion and knowledge in marketing and working experience. AdamArc firm has its color theme of green and brown that makes it more nature like that looks charming and pleasant in appearance for most of the customers. binago ko to for testing sa git
                     </p>
                 </div>
 
