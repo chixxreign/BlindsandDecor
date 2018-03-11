@@ -162,7 +162,7 @@
 
     <div class="container">
         <div>
-            <h1>Feedback</h1>
+            <h1>Feedfront</h1>
             <h6>Please tell us what do you think, any kind of feedback is highly appreciated.</h6>
             
             
